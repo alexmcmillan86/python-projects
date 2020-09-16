@@ -24,7 +24,7 @@ def fib_range(start, end):
          n2 = nth
 
 
-# function to generate list of prime numbers within range
+# function to generate list of fibonacci numbers within range
 fib_range(start, end)
     
     
