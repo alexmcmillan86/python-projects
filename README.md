@@ -1,4 +1,4 @@
 # python-projects
 Python Projects 2020
 
-Various projects built using Python to develop my coding skills.
+Scripts coded in Python to further my understanding and implementation of the language.
